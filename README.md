@@ -1,0 +1,1 @@
+Hi! Welcome to my portfolio. I am a beginner and I am currently working on making my portfolio better.
