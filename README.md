@@ -5,5 +5,7 @@ Hi! Welcome to my portfolio. I am a beginner and I am currently working on makin
 For now, I know and learning,
 
 1.HTML
+
 2.Repl.it
+
 3.Javascript
